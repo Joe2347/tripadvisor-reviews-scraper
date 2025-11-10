@@ -1,0 +1,5 @@
+{
+  "base_url": "https://www.tripadvisor.com",
+  "default_max_reviews": 10,
+  "output_formats": ["json", "csv"]
+}
