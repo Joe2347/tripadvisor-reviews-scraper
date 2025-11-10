@@ -1,0 +1,58 @@
+[
+    {
+        "id": "945493367",
+        "lang": "es",
+        "location_id": "15288822",
+        "published_date": "2024-04-05",
+        "rating": "5",
+        "helpful_votes": "0",
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g60763-d15288822-r945493367-SpringHill_Suites_New_York_Manhattan_Times_Square_South-New_York_City_New_York.html",
+        "travel_date": "2024-04-30",
+        "tripType": "COUPLES",
+        "text": "Una buena estancia en el hotel, la ubicación perfecta y el servicio muy agradable! Han resuelto cualquier pequeño inconveniente y han hecho la estancia muy cómoda. Leidi ha sido muy atenta con nosotros 😁",
+        "title": "Buen hotel",
+        "user": {
+            "user_id": "6BE867CF35056381C1ABDB41B4628A4D",
+            "name": "claram416",
+            "username": "claram416",
+            "avatar": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/59/default-avatar-2020-24.jpg"
+        },
+        "photos": [
+            {
+                "id": 770872649,
+                "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/f2/95/49/caption.jpg"
+            },
+            {
+                "id": 770872650,
+                "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/f2/95/4a/caption.jpg"
+            }
+        ],
+        "owner_response": {
+            "id": "945566927",
+            "responder": "Marriott Hotels",
+            "text": "Dear claram416, Thank you for taking the time to review your stay with SpringHill Suites New York Manhattan/Times Square South..."
+        },
+        "subratings": [
+            {
+                "name": "Value",
+                "value": "5"
+            },
+            {
+                "name": "Rooms",
+                "value": "5"
+            },
+            {
+                "name": "Location",
+                "value": "5"
+            },
+            {
+                "name": "Cleanliness",
+                "value": "5"
+            },
+            {
+                "name": "Service",
+                "value": "5"
+            }
+        ]
+    }
+]
